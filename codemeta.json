@@ -1,0 +1,71 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "type": "SoftwareSourceCode",
+    "author": [
+        {
+            "id": "https://orcid.org/0000-0003-2130-0865",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "University of Manchester"
+            },
+            "familyName": "Owen",
+            "givenName": "Stuart"
+        },
+        {
+            "id": "https://orcid.org/0000-0002-0048-3300",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "University of Manchester"
+            },
+            "familyName": "Bacall",
+            "givenName": "Finn "
+        },
+        {
+            "id": "https://orcid.org/0000-0003-0177-1993",
+            "type": "Person",
+            "familyName": "Hu",
+            "givenName": "Xiaoming"
+        },
+        {
+            "id": "https://orcid.org/0000-0001-5151-7665",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "Leipzig University "
+            },
+            "familyName": "Strübing",
+            "givenName": "Alexander"
+        },
+        {
+            "id": "_:author_5",
+            "type": "Person",
+            "familyName": "Wagner",
+            "givenName": "Jonas"
+        }
+    ],
+    "codeRepository": "https://github.com/nfdi4health/ldh",
+    "dateModified": "2024-05-17",
+    "datePublished": "2024-01-22",
+    "description": "The FAIRDOM-SEEK platform is a web-based resource for sharing heterogeneous scientific research datasets,models or simulations, processes and research outcomes. It preserves associations between them, along with information about the people and organisations involved. ",
+    "downloadUrl": "https://github.com/nfdi4health/ldh/archive/refs/tags/v0.2.2.zip",
+    "identifier": "doi:10.1186/s12918-015-0174-y",
+    "isPartOf": "https://seek4science.org/",
+    "license": "https://spdx.org/licenses/BSD-3-Clause",
+    "name": "FAIRDOM-SEEK",
+    "operatingSystem": [
+        "Debian",
+        "Ubuntu"
+    ],
+    "programmingLanguage": [
+        "Ruby",
+        "HTML",
+        "Java Script"
+    ],
+    "releaseNotes": "Seek 1.15.0\nPublishing functionality for project extended metadata to Nfdi4Health Health Study Hub\n",
+    "version": "0.2.2",
+    "developmentStatus": "active",
+    "isSourceCodeOf": "FAIRDOM-SEEK",
+    "issueTracker": "https://github.com/nfdi4health/ldh/issues"
+}
