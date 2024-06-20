@@ -44,7 +44,7 @@ The documentation is available on the *ghpages* branch.
 
 For details about how to contact us, to raise bugs or offer suggestion, please visit [Contacting Us](http://docs.seek4science.org/contacting_us.html)
 
-##Contributors
+## Contributors
 
 Active contributors are Stuart Owen, Finn Bacall and Xiaoming Hu
 
