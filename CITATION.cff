@@ -28,6 +28,11 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.11209855
 repository-code: 'https://github.com/nfdi4health/ldh'
+date-published: 2015
+keywords:
+  - FAIR
+  - FAIRDOM
+  - SEEK
 abstract: >-
   The FAIRDOM-SEEK platform is a web-based resource for
   sharing heterogeneous scientific research datasets,models
