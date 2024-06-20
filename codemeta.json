@@ -67,5 +67,10 @@
     "version": "0.2.2",
     "developmentStatus": "active",
     "isSourceCodeOf": "FAIRDOM-SEEK",
-    "issueTracker": "https://github.com/nfdi4health/ldh/issues"
+    "issueTracker": "https://github.com/nfdi4health/ldh/issues",
+    "keywords": [
+        "FAIR",
+        "FAIRDOM",
+        "SEEK"
+    ]
 }
