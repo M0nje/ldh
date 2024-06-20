@@ -44,3 +44,10 @@ jobs:
           push: ${{ contains(fromJSON('["release", "workflow_dispatch"]'), github.event_name) }}
           tags: ${{ steps.generate-image-tags.outputs.tags }}
           labels: ${{ steps.generate-image-tags.outputs.labels }}
+  deployment:
+     runs-on: ubuntu-latest
+     environment: production
+     concurrency: production
+     steps:
+        - name: deploy
+   
