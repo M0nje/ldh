@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+title: FAIRDOM-SEEK
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Owen
+    given-names: Stuart
+    orcid: "https://orcid.org/0000-0003-2130-0865"
+    role: programmer
+  - family-names: Bacall
+    given-names: Finn 
+    orcid: "https://orcid.org/0000-0002-0048-3300"
+    role: programmer
+  - family-names: Hu
+    given-names: Xiaoming
+    orcid: "https://orcid.org/0000-0003-0177-1993"
+    role: programmer
+  - family-names: Strübing  
+    given-names: Alexander
+    orcid: "https://orcid.org/0000-0001-5151-7665"
+    role: programmer
+  - family-names: Wagner
+    given-names: Jonas
+    role: programmer 
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.11209855
+repository-code: 'https://github.com/nfdi4health/ldh'
+abstract: >-
+  The FAIRDOM-SEEK platform is a web-based resource for
+  sharing heterogeneous scientific research datasets,models
+  or simulations, processes and research outcomes. It
+  preserves associations between them, along with
+  information about the people and organisations involved.
+  Underpinning SEEK is the ISA infrastructure, a standard
+  format for describing how individual experiments are
+  aggregated into wider studies and investigations. Within
+  SEEK, ISA has been extended and is configurable to allow
+  the structure to be used outside of Biology.
+license: BSD-3-Clause
+commit: '8003816'
+version: v0.2.2
+date-released: '2024-05-17'
+
+
